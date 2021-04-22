@@ -9,6 +9,7 @@
     height: 200px;
     width: 900px;
     margin: 20px;
+    padding: 10px;
     background-color: rgba(46, 183, 247, 0.555);
     display: flex;
     justify-content: space-evenly;
@@ -17,6 +18,7 @@
     height:200px;
     width: 900px;
     margin:20px;
+    padding: 10px;
     background-color: rgba(182, 41, 128, 0.432);
     display: flex;
     justify-content: space-evenly;
@@ -26,6 +28,7 @@
     height:200px;
     width: 900px;
     margin:20px;
+    padding: 10px;
     background-color: white;
     display: flex;
     justify-content: space-evenly;
